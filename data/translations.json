@@ -1,0 +1,100 @@
+{
+  "ru": {
+    "nav": {
+      "home": "Главная",
+      "about": "Об игре",
+      "news": "Новости",
+      "download": "Скачать",
+      "team": "Команда",
+      "contacts": "Контакты"
+    },
+    "home": {
+      "title": "DeadZone"
+    },
+    "about": {
+      "title": "Об игре",
+      "content": "Информация об игре будет добавлена позже"
+    },
+    "news": {
+      "title": "Новости",
+      "noNews": "Новостей пока нет"
+    },
+    "download": {
+      "title": "Скачать",
+      "button": "Скачать игру",
+      "instructions": "Инструкции по установке будут добавлены позже"
+    },
+    "team": {
+      "title": "Команда",
+      "member1": {
+        "name": "Участник 1",
+        "role": "Разработчик"
+      },
+      "member2": {
+        "name": "Участник 2",
+        "role": "Дизайнер"
+      },
+      "member3": {
+        "name": "Участник 3",
+        "role": "Руководитель проекта"
+      }
+    },
+    "contacts": {
+      "title": "Контакты",
+      "telegram": "Telegram",
+      "github": "GitHub"
+    },
+    "footer": {
+      "copyright": "© 2025 DeadZone. Все права защищены."
+    }
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "news": "News",
+      "download": "Download",
+      "team": "Team",
+      "contacts": "Contacts"
+    },
+    "home": {
+      "title": "DeadZone"
+    },
+    "about": {
+      "title": "About the Game",
+      "content": "Game information will be added later"
+    },
+    "news": {
+      "title": "News",
+      "noNews": "No news available yet"
+    },
+    "download": {
+      "title": "Download",
+      "button": "Download Game",
+      "instructions": "Installation instructions will be added later"
+    },
+    "team": {
+      "title": "Team",
+      "member1": {
+        "name": "Member 1",
+        "role": "Developer"
+      },
+      "member2": {
+        "name": "Member 2",
+        "role": "Designer"
+      },
+      "member3": {
+        "name": "Member 3",
+        "role": "Project Manager"
+      }
+    },
+    "contacts": {
+      "title": "Contacts",
+      "telegram": "Telegram",
+      "github": "GitHub"
+    },
+    "footer": {
+      "copyright": "© 2025 DeadZone. All rights reserved."
+    }
+  }
+} 

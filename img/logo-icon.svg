@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Определяем градиент как на сайте -->
+  <defs>
+    <linearGradient id="accent-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00c853" />
+      <stop offset="100%" stop-color="#00b0ff" />
+    </linearGradient>
+    <!-- Радиационный фон -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- Тёмный фон -->
+  <rect width="512" height="512" rx="80" fill="#161616" />
+  
+  <!-- Круг с градиентной обводкой -->
+  <circle cx="256" cy="256" r="210" fill="none" stroke="url(#accent-gradient)" stroke-width="12" />
+  
+  <!-- Радиационный знак -->
+  <g transform="translate(256, 256)" fill="url(#accent-gradient)" filter="url(#glow)" opacity="0.2">
+    <circle cx="0" cy="0" r="40" />
+    <path d="M0,-40 L20,60 L-20,60 Z" transform="rotate(0)" />
+    <path d="M0,-40 L20,60 L-20,60 Z" transform="rotate(120)" />
+    <path d="M0,-40 L20,60 L-20,60 Z" transform="rotate(240)" />
+  </g>
+  
+  <!-- Букы DZ -->
+  <g fill="white" transform="translate(115, 325)">
+    <!-- D -->
+    <path d="M10,0 L10,-170 L70,-170 C120,-170 150,-140 150,-85 C150,-30 120,0 70,0 L10,0 Z M50,-40 L65,-40 C90,-40 105,-60 105,-85 C105,-110 90,-130 65,-130 L50,-130 L50,-40 Z" />
+    <!-- Z -->
+    <path d="M180,0 L180,-40 L240,-130 L185,-130 L185,-170 L280,-170 L280,-130 L220,-40 L280,-40 L280,0 L180,0 Z" />
+  </g>
+</svg> 
