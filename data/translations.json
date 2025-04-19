@@ -9,40 +9,63 @@
       "contacts": "Контакты"
     },
     "home": {
-      "title": "DeadZone"
+      "title": "DeadZone",
+      "subtitle": "Погрузитесь в мир, где каждое решение имеет значение",
+      "downloadBtn": "Скачать игру",
+      "learnMoreBtn": "Узнать больше"
     },
     "about": {
       "title": "Об игре",
-      "content": "Информация об игре будет добавлена позже"
+      "content": "Информация об игре будет добавлена позже",
+      "plot": "Сюжет",
+      "features": "Особенности",
+      "gameplay": "Геймплей"
     },
     "news": {
       "title": "Новости",
-      "noNews": "Новостей пока нет"
+      "noNews": "Новостей пока нет",
+      "readMore": "Читать далее",
+      "backToNews": "Назад к новостям",
+      "usefulLinks": "Полезные ссылки"
     },
     "download": {
       "title": "Скачать",
       "button": "Скачать игру",
-      "instructions": "Инструкции по установке будут добавлены позже"
+      "instructions": "Инструкции по установке будут добавлены позже",
+      "version": "Версия 1.0",
+      "installInstructions": "Инструкция по установке",
+      "systemRequirements": "Системные требования"
     },
     "team": {
-      "title": "Команда",
+      "title": "О нашей команде",
+      "description1": "Мы — команда талантливых разработчиков, дизайнеров и креативщиков, объединенных общей целью: создавать цифровые продукты, которые решают проблемы и приносят ценность.",
+      "description2": "Наш опыт охватывает широкий спектр технологий и отраслей, что позволяет нам находить инновационные решения для любых задач.",
+      "description3": "Мы верим в простоту, функциональность и эстетику в каждом проекте, над которым работаем.",
+      "skills": "Наши навыки",
       "member1": {
-        "name": "Участник 1",
-        "role": "Разработчик"
+        "name": "Артём Ударцев",
+        "role": "Главный разработчик",
+        "bio": "Опытный разработчик с глубокими знаниями в создании игровых механик и оптимизации производительности."
       },
       "member2": {
-        "name": "Участник 2",
-        "role": "Дизайнер"
+        "name": "Гагик Зарян",
+        "role": "Главный строитель",
+        "bio": "Мастер создания игровых уровней и окружения с вниманием к деталям и игровому балансу."
       },
       "member3": {
-        "name": "Участник 3",
-        "role": "Руководитель проекта"
+        "name": "Андрей Толмачев",
+        "role": "Главный дизайнер",
+        "bio": "Креативный дизайнер с богатым опытом в создании уникальных визуальных стилей и пользовательских интерфейсов."
       }
     },
     "contacts": {
       "title": "Контакты",
       "telegram": "Telegram",
-      "github": "GitHub"
+      "github": "GitHub",
+      "discord": "Discord"
+    },
+    "preloader": {
+      "welcome": "Добро пожаловать"
     },
     "footer": {
       "copyright": "© 2025 DeadZone. Все права защищены."
@@ -58,40 +81,63 @@
       "contacts": "Contacts"
     },
     "home": {
-      "title": "DeadZone"
+      "title": "DeadZone",
+      "subtitle": "Immerse yourself in a world where every decision matters",
+      "downloadBtn": "Download Game",
+      "learnMoreBtn": "Learn More"
     },
     "about": {
       "title": "About the Game",
-      "content": "Game information will be added later"
+      "content": "Game information will be added later",
+      "plot": "Plot",
+      "features": "Features",
+      "gameplay": "Gameplay"
     },
     "news": {
       "title": "News",
-      "noNews": "No news available yet"
+      "noNews": "No news available yet",
+      "readMore": "Read More",
+      "backToNews": "Back to News",
+      "usefulLinks": "Useful Links"
     },
     "download": {
       "title": "Download",
       "button": "Download Game",
-      "instructions": "Installation instructions will be added later"
+      "instructions": "Installation instructions will be added later",
+      "version": "Version 1.0",
+      "installInstructions": "Installation Instructions",
+      "systemRequirements": "System Requirements"
     },
     "team": {
-      "title": "Team",
+      "title": "About Our Team",
+      "description1": "We are a team of talented developers, designers and creative minds united by a common goal: to create digital products that solve problems and bring value.",
+      "description2": "Our experience spans a wide range of technologies and industries, allowing us to find innovative solutions for any task.",
+      "description3": "We believe in simplicity, functionality and aesthetics in every project we work on.",
+      "skills": "Our Skills",
       "member1": {
-        "name": "Member 1",
-        "role": "Developer"
+        "name": "Artem Udartsev",
+        "role": "Lead Developer",
+        "bio": "Experienced developer with deep knowledge in creating game mechanics and performance optimization."
       },
       "member2": {
-        "name": "Member 2",
-        "role": "Designer"
+        "name": "Gagik Zaryan",
+        "role": "Lead Level Designer",
+        "bio": "Master of creating game levels and environments with attention to detail and game balance."
       },
       "member3": {
-        "name": "Member 3",
-        "role": "Project Manager"
+        "name": "Andrey Tolmachev",
+        "role": "Lead Designer",
+        "bio": "Creative designer with extensive experience in creating unique visual styles and user interfaces."
       }
     },
     "contacts": {
       "title": "Contacts",
       "telegram": "Telegram",
-      "github": "GitHub"
+      "github": "GitHub",
+      "discord": "Discord"
+    },
+    "preloader": {
+      "welcome": "Welcome"
     },
     "footer": {
       "copyright": "© 2025 DeadZone. All rights reserved."
