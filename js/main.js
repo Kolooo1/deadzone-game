@@ -45,7 +45,9 @@ document.addEventListener('DOMContentLoaded', function() {
 // Загрузка переводов из JSON файла
 async function loadTranslations() {
     try {
-        const response = await fetch('data/translations.json');
+        // Определяем путь к файлу в зависимости от текущего пути
+        const pathPrefix = window.location.pathname.includes('/news/') ? '../' : '';
+        const response = await fetch(`${pathPrefix}data/translations.json`);
         translations = await response.json();
     } catch (error) {
         console.error('Ошибка загрузки переводов:', error);
