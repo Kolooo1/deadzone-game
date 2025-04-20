@@ -26,7 +26,33 @@
       "noNews": "Новостей пока нет",
       "readMore": "Читать далее",
       "backToNews": "Назад к новостям",
-      "usefulLinks": "Полезные ссылки"
+      "usefulLinks": "Полезные ссылки",
+      "launch": {
+        "title": "Запуск официального сайта",
+        "content1": "Мы рады представить вам официальный сайт DeadZone!",
+        "content2": "На этом сайте вы сможете найти всю актуальную информацию о нашей игре, следить за обновлениями, скачивать последние версии и многое другое.",
+        "content3": "Следите за нашими новостями и анонсами!"
+      },
+      "testing": {
+        "title": "Набор в команду тестирования",
+        "content1": "Мы открываем набор в нашу команду тестирования игры DeadZone!",
+        "content2": "Если вы хотите стать частью процесса разработки, влиять на развитие игры и получить ранний доступ к новым функциям, то это отличная возможность для вас.",
+        "expectations": "Что мы ожидаем от тестировщиков:",
+        "exp1": "Активное участие в тестировании новых функций",
+        "exp2": "Предоставление подробной и конструктивной обратной связи",
+        "exp3": "Поиск и документирование багов",
+        "exp4": "Участие в обсуждениях по улучшению игрового процесса",
+        "exp5": "Минимум 5-7 часов игрового времени в неделю",
+        "benefits": "Что вы получите:",
+        "ben1": "Доступ к закрытым версиям игры",
+        "ben2": "Возможность влиять на развитие DeadZone",
+        "ben3": "Упоминание в титрах игры",
+        "ben4": "Доступ к закрытому Discord-каналу команды разработки",
+        "ben5": "Эксклюзивный внутриигровой контент",
+        "apply": "Для подачи заявки заполните форму на нашем Discord-сервере или свяжитесь с нами по электронной почте:",
+        "email": "testing@deadzone.com",
+        "limit": "Набор ограничен, мы выберем только 50 человек для первого этапа программы тестирования."
+      }
     },
     "download": {
       "title": "Скачать",
@@ -98,7 +124,33 @@
       "noNews": "No news available yet",
       "readMore": "Read More",
       "backToNews": "Back to News",
-      "usefulLinks": "Useful Links"
+      "usefulLinks": "Useful Links",
+      "launch": {
+        "title": "Official Website Launch",
+        "content1": "We are excited to present the official DeadZone website!",
+        "content2": "On this site, you can find all the relevant information about our game, keep track of updates, download the latest versions, and much more.",
+        "content3": "Stay tuned for our news and announcements!"
+      },
+      "testing": {
+        "title": "Recruiting Testing Team",
+        "content1": "We are now recruiting for our DeadZone game testing team!",
+        "content2": "If you want to be part of the development process, influence the game's evolution, and get early access to new features, this is a great opportunity for you.",
+        "expectations": "What we expect from testers:",
+        "exp1": "Active participation in testing new features",
+        "exp2": "Providing detailed and constructive feedback",
+        "exp3": "Finding and documenting bugs",
+        "exp4": "Participating in discussions to improve gameplay",
+        "exp5": "Minimum 5-7 hours of gameplay per week",
+        "benefits": "What you'll get:",
+        "ben1": "Access to closed versions of the game",
+        "ben2": "Opportunity to influence DeadZone development",
+        "ben3": "Mention in the game credits",
+        "ben4": "Access to the closed Discord channel of the development team",
+        "ben5": "Exclusive in-game content",
+        "apply": "To apply, fill out the form on our Discord server or contact us by email:",
+        "email": "testing@deadzone.com",
+        "limit": "Recruitment is limited, we will select only 50 people for the first stage of the testing program."
+      }
     },
     "download": {
       "title": "Download",
