@@ -1180,8 +1180,8 @@ footer::before {
 }
 
 .news-body {
-  line-height: 1.8;
-  font-size: 2.2rem;
+  line-height: 1.5;
+  font-size: 1.8rem;
 }
 
 .news-body p {
@@ -1238,7 +1238,7 @@ footer::before {
   padding-left: 25px;
   margin-bottom: 10px;
   line-height: 1.6;
-  font-size: 2.2rem;
+  font-size: 1.4rem;
 }
 
 .news-body ul li:before {
