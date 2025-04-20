@@ -1181,6 +1181,7 @@ footer::before {
 
 .news-body {
   line-height: 1.8;
+  font-size: 1.15rem;
 }
 
 .news-body p {
@@ -1237,6 +1238,7 @@ footer::before {
   padding-left: 25px;
   margin-bottom: 10px;
   line-height: 1.6;
+  font-size: 1.15rem;
 }
 
 .news-body ul li:before {
@@ -1252,7 +1254,7 @@ footer::before {
 
 .news-body h3 {
   margin-top: 25px;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   color: var(--primary-color);
 }
 
@@ -1271,4 +1273,9 @@ footer::before {
 .news-body strong {
   color: var(--primary-color);
   font-weight: 600;
+}
+
+#news-single h1 {
+  font-size: 2.8rem;
+  margin-bottom: 30px;
 } 
